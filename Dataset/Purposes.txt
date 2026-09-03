@@ -1,0 +1,55 @@
+Low-level-of-detail purposes for the task of sorting cylinders by color.
+
+    1. Arrange the cylinders based on their color.
+    2. Classify all items on the table into their correct containers.
+    3. Organize objects on the table by color.
+    4. Put each cylinder where it belongs.
+    5. Sort all the pieces into the corresponding baskets.
+    6. Distribute the items by color into appropriate containers.
+    7. The pieces must be sorted by their color.
+    8. Place each object in its designated container.
+    9. Separate the colored items into their respective baskets.
+    10. Sort the cylinders on the table.
+    11. Assign each cylinder to the correct basket based on its color.
+    12. Organize the objects on the table by color.
+    13. Place all objects in the appropriate baskets.
+    14. Sort and place the items according to their color.
+    15. Each colored element has to end up in the right basket.
+
+
+Low-level-of-detail purposes for the task of arranging apples by their color.
+
+    1. Arrange the apples on the table.
+    2. Organize all apples by their color.
+    3. Sort the items on the table based on color.
+    4. Distribute the apples appropriately.
+    5. Classify the apples into groups.
+    6. Place the apples where they belong.
+    7. Separate the apples according to their color.
+    8. Ensure the apples are arranged correctly.
+    9. Organize the items by their characteristics.
+    10. Help me keep the apples organized by color.
+    11. Put the objects in their designated spots.
+    12. Group similar apples together on the table.
+    13. Make sure the apples are placed in the right areas.
+    14. Keep the apples on the table so sorted by color.
+    15. Arrange and place apples based on their type.
+
+
+Low-level-of-detail purposes for the task of stacking cylinders in the center of the table by size order.
+
+    1. Stack the cylinders properly on the table.
+    2. Arrange the items in a vertical stack at the center.
+    3. Organize all objects by size in the middle of the table.
+    4. Place the appropriate items in a single pile.
+    5. Sort objects into a stack.
+    6. Sort the objects to create a tower.
+    7. Arrange the pieces on top of each other.
+    8. Stack similar objects in order from largest to smallest.
+    9. Create an organized pile with the cylinders.
+    10. Place objects in a neat stack at the center.
+    11. Arrange everything so it forms a clear and tidy stack.
+    12. Organize the cylinders by size into a single column.
+    13. Stack the correct objects in the proper order.
+    14. Place everything in a single, well-ordered pile.
+    15. The robot has to stack the items so they're properly organized.
