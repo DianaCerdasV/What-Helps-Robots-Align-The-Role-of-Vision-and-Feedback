@@ -1,0 +1,29 @@
+needs:
+    -
+        name: novelty_need
+        class_name: cognitive_nodes.need.Need
+        parameters:
+            weight: 0.1
+            drive_id: 'novelty_drive'
+            need_type: 'Cognitive'
+    - 
+        name: effectance_need
+        class_name: cognitive_nodes.need.Need
+        parameters:
+            weight: 0.25
+            drive_id: 'effectance_drive'
+            need_type: 'Cognitive'
+    - 
+        name: external_effects_need
+        class_name: cognitive_nodes.need.Need
+        parameters:
+            weight: 0.3
+            drive_id: 'external_effects_drive'
+            need_type: 'Cognitive'
+    - 
+        name: prospection_need
+        class_name: cognitive_nodes.need.Need
+        parameters:
+            weight: 0.8
+            drive_id: 'prospection_drive'
+            need_type: 'Cognitive'

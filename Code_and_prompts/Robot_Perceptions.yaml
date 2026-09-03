@@ -1,0 +1,27 @@
+objects:
+    object1.label: "button"
+    object1.color: "white"
+    object1.x_position: continuous value that is normalized between 0 and 1, where 0 is the left edge and 1 is the right edge of the table.
+    object1.y_position: continuous value that is normalized between 0 and 1, where 0 is the bottom edge and 1 is the top edge of the table.
+    object1.diameter: Returns the normalized diameter of the object as a float between 0 and 1. In this case it is 0.3.
+    object1.state: it can be 0 (not pressed), 1 (pressed)
+
+    object2.label: "apple"
+    object2.x_position: continuous value that is normalized between 0 and 1, where 0 is the left edge and 1 is the right edge of the table.
+    object2.y_position: continuous value that value is normalized between 0 and 1, where 0 is the bottom edge and 1 is the top edge of the table.
+    object2.diameter: Returns the normalized diameter of the object as a float between 0 and 1. In this case it is 0.4
+    object2.color: "red"
+    object2.state: always 0
+
+    object3.label: "apple"
+    object3.x_position: continuous value that is normalized between 0 and 1, where 0 is the left edge and 1 is the right edge of the table.
+    object3.y_position: continuous value that is normalized between 0 and 1, where 0 is the bottom edge and 1 is the top edge of the table.
+    object3.diameter: Returns the normalized diameter of the object as a float between 0 and 1. In this case it is 0.4
+    object3.color: "green"
+    object3.state: always 0
+
+
+    
+
+
+
